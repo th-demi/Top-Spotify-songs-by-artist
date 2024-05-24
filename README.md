@@ -1,0 +1,3 @@
+- Get your CLIENT_ID and CLIENT_SECRET from the Spotify API
+- Save them as string values in a file named ".env"
+- The file should be empty except for these credentials
