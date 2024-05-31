@@ -1,3 +1,6 @@
 - Get your CLIENT_ID and CLIENT_SECRET from the Spotify API
 - Save them as string values in a file named ".env"
-- The file should be empty except for these credentials
+- ".env" should be empty except for these credentials.
+- Run the "main.py" file by changing the inital letter to a-z and 0-9.
+- Each time you run the file with different letter/digit you will generate a csv with artists details staring with that letter/digit.
+- Combine the data and preprocess it in the pandas.
